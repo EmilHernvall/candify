@@ -1,0 +1,6 @@
+This is a simple spotify client. When starting up you login and chose a playlist, which it then plays while
+visualizing it. The effect itself is based on an FFT and a moving average. To be honest it doesn't follow
+the music quite as well as I wanted it to. Despite that it seems to work well enough.
+
+You'll have to download libspotify to compile it. You also need your own API-key which should be
+placed in a file called appkey.cpp.
